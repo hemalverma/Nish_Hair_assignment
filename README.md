@@ -1,2 +1,3 @@
 # Nish_Hair_assignment
-Assignment
+
+This project is craeted as the assignment.
