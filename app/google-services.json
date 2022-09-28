@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136867567061",
+    "project_id": "nish-hair-40d3e",
+    "storage_bucket": "nish-hair-40d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136867567061:android:85def643335c12de21595c",
+        "android_client_info": {
+          "package_name": "com.hvx.nishhair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136867567061-36mbla4rnvlk21cr76q3a3gm2gsbk6tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs4GOMzCTdSqWF2X3jKMJg7NyW2tvd4Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136867567061-36mbla4rnvlk21cr76q3a3gm2gsbk6tp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
